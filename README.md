@@ -39,7 +39,7 @@ python data/get_data.py
 ## Notebooks
 
 - `Notebooks/XGBoost.ipynb`: feature engineering + XGBoost model.
-- `Notebooks/Neural_network.ipynb`: PyTorch-based neural network model.
+- `Notebooks/Neural_network.ipynb`: (Under development) PyTorch-based neural network model.
 
 ## Results
 
