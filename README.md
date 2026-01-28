@@ -39,8 +39,8 @@ python data/get_data.py
 ## Notebooks
 
 - `Notebooks/XGBoost.ipynb`: feature engineering + XGBoost model.
-- `Notebooks/Neural_network.ipynb`: (Under development) PyTorch-based neural network model.
+- `Notebooks/Neural_network.ipynb`: (Under development) Neural network model using PyTorch.
 
 ## Results
 
-Results can be found in the notebooks.
+Results can be found in the [Kaggle leaderboard](https://www.kaggle.com/competitions/playground-series-s6e1/leaderboard) or in the notebooks.
